@@ -2,5 +2,5 @@ fn main() {
     println!("Hello, world!");
 }
 fn test(){
-    println!("This is second commit");
+    println!("This is third commit");
 }
